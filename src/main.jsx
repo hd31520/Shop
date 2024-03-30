@@ -11,12 +11,7 @@ import {
 import { router } from './Components/Routes/Router.jsx';
 
 
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <div>Hello world!</div>,
-//   },
-// ]);
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
